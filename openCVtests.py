@@ -1,6 +1,7 @@
 import numpy as n
 import cv2 as c
 
+
 #leemos la imagen, 0 es es cala de grises; 1 es normal (a color)
 img = c.imread("lena.jpg",0)
 
