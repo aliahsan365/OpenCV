@@ -1,2 +1,2 @@
 # OpenCV
-Testing OpenCV using Python.
+Testing OpenCV.
